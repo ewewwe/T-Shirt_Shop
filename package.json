@@ -21,13 +21,8 @@
     "@vue/cli-plugin-babel": "^3.12.0",
     "@vue/cli-plugin-eslint": "^3.12.0",
     "@vue/cli-plugin-router": "^4.0.0-alpha.4",
-<<<<<<< HEAD
-    "@vue/cli-plugin-unit-jest": "^4.0.4",
-    "@vue/cli-service": "^3.11.0",
-=======
     "@vue/cli-plugin-unit-jest": "^3.12.0",
     "@vue/cli-service": "^3.12.0",
->>>>>>> 403a418fe5499dc921642507039f4d9f4c17f451
     "@vue/test-utils": "1.0.0-beta.29",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
